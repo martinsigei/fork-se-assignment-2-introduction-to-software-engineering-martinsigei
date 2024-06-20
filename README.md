@@ -12,11 +12,19 @@ Define Software Engineering: Software engineering is a systematic approach to th
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):Software is developed, tested, and maintained using an organized process called the Software Development Life Cycle (SDLC). The following phases are part of it:Requirements gathering and analysis
+
 Design
+
 Implementation (coding)
+
 Testing
+
 Deployment
+
 Maintenance
+
+coding
+
 Each stage builds on the previous one, with the output of one stage serving as the input for the next. The SDLC is a key part of software engineering, as it helps to ensure that software is developed in a systematic, repeatable, and predictable way.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.Requirement Analysis: This phase involves gathering, analyzing, and documenting the requirements for the software system. It includes identifying stakeholders, understanding their needs, and defining the functional and non-functional requirements of the software.
